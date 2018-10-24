@@ -62,7 +62,7 @@ Develop an ASP.NET MVC app with C# and EF CodeFirst that captures customer infor
 >Pull all changes, make sure your repository is up to date
 
 ```sh
-$ cd UIUXCodeChallengeSeptember2018
+$ cd AlfarBackendChallenge
 $ git pull origin master
 ```
 
